@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of many of the inhabitants of Covent Garden</title>
+         </titleStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08637</idno><idno type="EEBO-CITATION">64551031</idno>
+  <idno type="VID">184418</idno>
+  <idno type="EEBO-PROQUEST">2248534174</idno>
+  
+            <idno type="STC">Wing C944</idno>
+            <idno type="STC">ESTC R170959</idno>
+            <idno type="OCLC">64551031</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B08637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184418)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of many of the inhabitants of Covent Garden</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: pages creased and stained with slight loss of print.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Covent Garden (London, England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:184418:1"/>
+            <head>The Case of many of the Inhabitants of <hi>Covent Garden.</hi>
+            </head>
+            <p>AFter all possible means had been used by divers Inhabitants of the sayd Parish, for the Reformation of many Injuries done unto the Parishioners by some few of the Vestry; And after severall of the Governours themselves had often perswaded them to regulate the Affayrs of the Parish, which were carried on most Unequally, Scandalously, and Unjustly, They at length, not finding any Redresse, but that Affronts and Disturbances were daily multiplied upon them, humbly applied themselves for Reliefe unto his Highness the Lord Protector by Petition, as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <opener>
+                           <salute>To his Highnesse the Lord Protector &amp;c.</salute>
+                        </opener>
+                        <head>The humble Petition of many of the Inhabitants of <hi>Covent Garden,</hi>
+                        </head>
+                        <p>Sheweth:</p>
+                        <p>
+                           <hi>THat whereas most of the Inhabitants of the Precinct of Covent Garden, payd very great Fines at the first, besides their yeerly Rents, for their now dwelling Houses, being promised by the Earle of</hi> Bedford, <hi>that he would both build them a free Chappel and endow it at his own cost (which promise was for many years performed in part) whereby they might with more conveniency hear the word of God, and receive the Sa<g ref="char:EOLhyphen"/>craments to the benefit of their own soules, and instruction of their families; yet in the yeare</hi> 1646. <hi>an Ordinance was procured by some perticular persons, without the know<g ref="char:EOLhyphen"/>ledge or consent of the greater number of the Inhabitants from the Lords and Commons, to make the Precinct Parochiall, and to leavy great summes of Money upon the Pa<g ref="char:EOLhyphen"/>rishioners, appointing</hi> 34. <hi>to be Governours of the sayd Parish; the one halfe consist<g ref="char:EOLhyphen"/>ing of Lords, Knights, and Esquires, and the other halfe of Tradesmen, whereby there might be an equality in the levying all Taxes, with a Provision in the Ordinance, that if any died, or left the Parish, another should be chosen in his place by the Convoca<g ref="char:EOLhyphen"/>tion of the Parish; yet so it is, that many of the first Rank being dead or gone, the Pa<g ref="char:EOLhyphen"/>rish have not had any free Election, but the Tradesmen continue the power in their own hands, laying what Taxes they please and upon whom they please, insomuch that the Monthly Assessment is trebled upon some, and slackned upon others: And wher<g ref="char:EOLhyphen"/>as one complains of the Tax, ten complain of the Disproportion: so that some of them being disaffected to the present Government; doe by all means endevour to make it in<g ref="char:EOLhyphen"/>supportable to others, who in all humble duty desire to live in Obedience.</hi>
+                        </p>
+                        <p>
+                           <hi>Wherefore there being no other way wherby your Petitioners may be relie<g ref="char:EOLhyphen"/>ved, but by addressing themselves to your Highness, the power that made the Ordinance being determined, who reserved to themselves Authority by a Clause in the Ordinance to regulate it upon any just occasion.</hi>
+                        </p>
+                        <closer>We your most humble Petitioners doe desire that other per<g ref="char:EOLhyphen"/>sons may be appointed, to whom we may repair for reliefe for these grievances which are heerunto annexed, and others that shall be presented by the rest of the Inhabitants.</closer>
+                        <closer>And as in duty bound we shall always pray &amp;c.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>At the same time another Petition for Churchwardens, the seating of the Parishioners in the Church, (who payd towards the maintenance of the Minister, yet were secluded from having Seats by some of the Vestry)
+<pb n="2" facs="tcp:184418:2"/>&amp; for taking an account of some thousands of pounds which have been col<g ref="char:EOLhyphen"/>lected from the Inhabitants, but never counted for to them since <hi>Covent Gar<g ref="char:EOLhyphen"/>den</hi> was made Parochiall, was presented in these words.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <opener>
+                           <salute>To his Highness the Lord Protector of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland</hi> &amp;c.</salute>
+                        </opener>
+                        <head>The humble Petition of many the Inhabitants of <hi>Covent Garden.</hi>
+                        </head>
+                        <p>Sheweth:</p>
+                        <p>
+                           <hi>THat about</hi> 1646. <hi>the Precinct of</hi> Covent Garden <hi>was made Parochiall by an Ordinance of the Lords and Commons: and</hi> 34. <hi>Persons therein appoin<g ref="char:EOLhyphen"/>ted to raise a maintenance for the Minister: But so it is, that some of the said</hi> 34 <hi>Persons upon pretence of the sayd Ordinance have got severall great summes of money into their hands, of which never any account hath beene made upon Oath, either amongst themselves or to the Inhabitants, but have mispent and misimployed great part thereof. And doe often indirectly meet and assume unto themselves the dis<g ref="char:EOLhyphen"/>posall of the Seats of the Church, selling them at great prizes, giving them to one a<g ref="char:EOLhyphen"/>nother for nothing, not permitting the Ancient Inhabitants to be seated under great summes of mony. And do make Taxes, and Rates, concerning the Parish, none of which matters either the Ordinance or any Commission from the Inhabitants impowre them to doe; heereby opposing the generall forme of all other Parish Government, insomuch that if timely remedy be not applyed many great disorders are likely to arise amongst the Inhabitants.</hi>
+                        </p>
+                        <p>
+                           <hi>May it therefore please your Highnesse to appoint some persons who may take an account upon Oath in the presence of the Inhabitants of all monies already received by any of the</hi> 34. <hi>Persons aforesaid, and may receive and redresse such grievances, as are heerein, or shall bee presented by the Inhabitants.</hi>
+                        </p>
+                        <p>
+                           <hi>And that for the future Church-wardens may bee elected, and the Seats of the Church which now are, and have lately fallen void, may bee disposed of to the Inhabitants, according to their Qualitie and Offices they have borne in the Parish, and that such Affaires as concerne the Pa<g ref="char:EOLhyphen"/>rish may bee carried on after the manner of all other Parishes in En<g ref="char:EOLhyphen"/>gland, and not otherwise.</hi>
+                        </p>
+                        <closer>And your Petitioners shall pray &amp;c.</closer>
+                        <closer>The names of the Petitioners are as followeth.
+<signed>
+                              <list>
+                                 <item>The Lord <hi>Monson.</hi>
+                                 </item>
+                                 <item>The Lord <hi>Lucas.</hi>
+                                 </item>
+                                 <item>Sir <hi>David Watkins</hi> Kt. and Justice of Peace.</item>
+                                 <item>Sir <hi>Humphrey Tracy</hi> Kt. and Baronet.</item>
+                                 <item>Sir <hi>Thomas Smith</hi> Kt.</item>
+                                 <item>Sir <hi>Edmund Pie</hi> Knight.</item>
+                                 <item>Sir <hi>William Gideon</hi> Kt.</item>
+                                 <item>
+                                    <hi>Edmund Waller</hi> Esq.</item>
+                                 <item>
+                                    <hi>Duncan Manto</hi> Gent. one of the Governers.</item>
+                                 <item>
+                                    <hi>Alexander Thaine</hi> Esq.</item>
+                                 <item>Dr. <hi>Nicholas Fisk</hi> one of the Governers.</item>
+                                 <item>
+                                    <hi>Anthony Mildmay</hi> Esq.</item>
+                                 <item>
+                                    <hi>Jo. Bradshaw</hi> Esq.</item>
+                                 <item>
+                                    <hi>William Gape</hi> Gent.</item>
+                                 <item>Dr. <hi>Baber</hi> one of the Governers.</item>
+                                 <item>
+                                    <hi>James Doccora</hi> Gent.</item>
+                                 <item>
+                                    <hi>James Weaver</hi> Gent.</item>
+                                 <item>Dr. <hi>Charleton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Barkstead.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Liske.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Nicholas Bartram.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Evan Jones.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Richard Thornton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hugh Chopington.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Miller</hi> Gent.</item>
+                                 <item>
+                                    <hi>Iohn Donne</hi> Esq.</item>
+                                 <item>
+                                    <hi>Anthony Basky.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Garret Otten.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rob. Hawthorn</hi> Gent.</item>
+                                 <item>
+                                    <hi>I. Atkins</hi> Esq.</item>
+                                 <item>
+                                    <hi>Peter Lilly</hi> Gent.</item>
+                                 <item>
+                                    <hi>Henry Wilbrohanny.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Henry Halphpeny.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Smith.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Leeke.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Anthony</hi>
+                                 </item>
+                                 <item>
+                                    <hi>L. Botler.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>George Clarke.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Richard Fuller</hi> Gent.</item>
+                                 <item>
+                                    <hi>Iohn Cragmyll.</hi>
+                                 </item>
+                                 <pb n="3" facs="tcp:184418:2"/>
+                                 <item>
+                                    <hi>Rob. Abdie.</hi>
+                                 </item>
+                                 <item>Sir <hi>William Parkhurst</hi> Kt.</item>
+                                 <item>Dr. <hi>Wemis.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>T. Flessurs</hi> Gent.</item>
+                                 <item>
+                                    <hi>George Villiers.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>George Stowell.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Barston.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Triplet.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Hatton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Littlell.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Leigh.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Griffin Parrat.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edward Haynes.</hi>
+                                 </item>
+                                 <item>Sir <hi>Prior</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Richard Williams.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Brew.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Blake.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>George Clare.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Miller.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Weston.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Rowhand Chipnam.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>George Weathell.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Richard Fowkes.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Wels.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Richard Maior.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Charles</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Peter Draper.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edmund Badshaw.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Moctin.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Packer.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Drayton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Nath. Litton.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Hadlay.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Liske.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Reynolds.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Richard Lewis.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Thomas Farloe.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>W. David.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Beard.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Hubber.</hi>
+                                 </item>
+                                 <item>S. <hi>Marriot</hi> G.</item>
+                                 <item>
+                                    <hi>Iohn Rumney.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Gabriel Cumberland.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Tate.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Heslington.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Will. Tilor.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Richard Farr.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Iohn Loisde.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Elcock.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Long.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hugh Davis.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>William Ledell.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>David Idelot.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Edmund Combes.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Ralph Waytt.</hi>
+                                 </item>
+                              </list> Gentlemen.</signed>
+                        </closer>
+                        <postscript>
+                           <p>
+                              <hi>The Persons who are in the Vestry, and molest the Parishioners, are;</hi> 2. <hi>Bakers,</hi> 2. <hi>Ped<g ref="char:EOLhyphen"/>lars,</hi> 2. <hi>or</hi> 3. <hi>Taylors,</hi> 2. <hi>Alehouse-keepers,</hi> 1. <hi>Broker. Having the Parish money in their Purses which they spend at their pleasure, accounting only to one another.</hi>
+                           </p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Complaints which were exhibited with the Petition, are as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="list_of_complaints">
+                        <head>Severall Complaints and Grievances of the Inhabitants of <hi>Covent Garden,</hi> to be presented to his Highnesse the Lord Protector for Redresse.</head>
+                        <p n="1">1 THat upon pretence of an Ordinance of Lords and Commons for making <hi>Covent Garden</hi> Parochiall, 12. or 13. of the Inhabitants have indirectly got into the Vestry, contrary to the intention of the Ordinance it selfe, usurping a power over their Neighbours, and upon pretence thereof have got severall great summes into their hands, and doe still meet and contrive to rayse and force moneys out of the Inhabitants, and give out in speeches, that if any private person shall withstand or not pay in such moneyes as they assesse upon him, that they will Indict or sue him, or distraine his goods, or out-spend him with the Parish stock, even in a Course at Common Law.</p>
+                        <p n="2">2. That besides the moneyes often collected in the Church, and by rea<g ref="char:EOLhyphen"/>son of the breach of many Penall Lawes against Drinking. Swearing, and ri<g ref="char:EOLhyphen"/>ding in Coaches on the Sabbath, the sayd persons doe levie and assesse great summes of money, upon pretence of maintenance for the poore, whereas there is not one poor Inhabitant in the Parish.</p>
+                        <p n="3">3. That they presume to sell the Seats in the Church for two Lives, (though they are at the sole disposall of the Lord Protector) and have im<g ref="char:EOLhyphen"/>posed on some Seats 22.30. and 60. pounds a piece, a thing never heard of in any Parish before. And wheras in all other Parishes of England, the In<g ref="char:EOLhyphen"/>habitants use to be seated according to their Quality, and Offices they have born in the Parish, they not only refuse to doe so, but sell and rent them even to strangers that dwell not in the Parish; Insomuch that the Inhabitants
+<pb n="4" facs="tcp:184418:3"/>themselves who pay very great rates towards the maintenance of the Mi<g ref="char:EOLhyphen"/>nister cannot without paying such unreasonable high prizes procure any place in the Church.</p>
+                        <p n="4">4. That notwithstanding when a seat falls void, those Persons in the Vestry vote it, (as they call it) to one another for nothing; never acquain<g ref="char:EOLhyphen"/>ting the Parishioners with it, who have often desir'd to be seated but cannot.</p>
+                        <p n="5">5. That to the great dishonor of God, the scandall of all good people, the ignominy and shame of the Parish, the sayd Persons have set and ap<g ref="char:EOLhyphen"/>poynted a Woman of a most lewd fame to keepe the seates: and when complaint was made of her life, and that shee kept a disorderly house, and that she so plac'd yong men and women together in seats where they might treat and conclude their abominable designes, during Divine worship, and that severall Gentlemen had beene infected in her house with the fowle Disease, and severall proofes heard about it, yet would they not proceed to remoove her, but according to their custome would Vote her to continue.</p>
+                        <p n="6">6. That to the great offence of many godly people (as hath beene pub<g ref="char:EOLhyphen"/>likely printed and intimated to my Lord Protector) they keepe in an Ale<g ref="char:EOLhyphen"/>house keeper for the publike reading of the word of God in the Church: and allow him no less then 40 l. <hi>per Ann.</hi> a revenew above some Church<g ref="char:EOLhyphen"/>es in London, and which might bee a comfortable refreshment and encou<g ref="char:EOLhyphen"/>ragement to many a godly Minister about this Towne, who lives in great want and necessity.</p>
+                        <p n="7">7. That the said persons have not the least Authority from the Ordi<g ref="char:EOLhyphen"/>nance to make any Rate or Tax except for the Minister, yet doe they make all, though it were left to the Inhabitants themselves.</p>
+                        <p n="8">8. That all the Taxes in the Parish are most unequall, and disproporti<g ref="char:EOLhyphen"/>onall upon most of the Inhabitants, and though they have been often pres<g ref="char:EOLhyphen"/>sed to set some equall Rule (as a pound rate or the like) for raising of Tax<g ref="char:EOLhyphen"/>es upon the Parishioners, yet have they with very great obstinacy refused it, declaring that they themselves would Tax as they thought fit; which Ar<g ref="char:EOLhyphen"/>bitrary way of proceeding hath made many disturbances in the Parish, and forced severall Inhabitants either to leave their Houses, or take them in o<g ref="char:EOLhyphen"/>ther mens names.</p>
+                        <p n="9">9. That of all the moneyes assessed by them, there was never any ac<g ref="char:EOLhyphen"/>count given to the Parishioners since it was a Parish. Nay for some Rates they have assessed much more money then would defray the charge, which moneys are continued in private hands, or spent as it hath beene reported at their private Feasts.</p>
+                        <p n="10">10. That they demand most unreasonable Rates from the Inhabitants for Burialls in the Church, and refuse to let the ground be broke, before the money be payd.</p>
+                        <p n="11">11. That most injuriously, unnecessiarily, and improvidently, they lay out such moneys as have been given to the Parish, to vaine and foolish uses, (as it is beleeved to set their Acquaintance a work with the Parish money) <hi>viz.</hi> about 100 l. for a Painted Cage.</p>
+                        <p n="12">12. That they have often consulted how to circumvent the Parishioners of their Money, and have endeavoured to engage the Parish stock to pay private Contracts.</p>
+                        <p n="13">13. That the sayd persons met together, declared that whosoever of their Neighbours shall come unto the Vestry, ought to stand bare before them, thinking by this means to avoyd all debating of Redresses, knowing that the Inhabitants scorn to doe it.</p>
+                        <p n="14">
+                           <pb n="5" facs="tcp:184418:3"/> 14. That at their meetings in the Vestry, they often fall into most rude and insolent Expressions amongst themselves; and when they have been ad<g ref="char:EOLhyphen"/>monished of their irregular proceedings by fome of the Board, great Af<g ref="char:EOLhyphen"/>fronts and Provocations have been returned.</p>
+                        <p n="15">15. That in the Vestry hath been offered to comply with one anothers Designes, Suppers of thirty or forty shillings.</p>
+                        <p n="16">16. That they have sent in their Bills of Sack and Tobacco spent at the Alehouse of the Reader aforesaid, to be paid out of the Parish money.</p>
+                        <p n="17">17. That some of them out of a Design to be made High Burgesses and Assistants, have betrayd the Parish into the Jurisdiction of the Court House at <hi>Westminster;</hi> wheras the Precinct of <hi>Covent Garden</hi> having beene heerto<g ref="char:EOLhyphen"/>fore a Priviledged place, ought still to have enjoyd its Priviledge. As the <hi>Savoy</hi> &amp;c.</p>
+                        <p n="18">18. That there hath been falsifying of the Parish Books.</p>
+                        <p n="19">19. That when the Inhabitants met on the 25. of <hi>March</hi> last past, to chuse Surveyors for the High wayes, according to his Highness Ordinance, They in their Vestry voted and nominated two persons, whom the Parish had not chosen, secluding the Inhabitants from the sayd choice, though they were often perswaded to the contrary. And if some prudent persons had not in<g ref="char:EOLhyphen"/>terposed, in probability there had been stirred up a great tumult and Riot. And since their pretended Election, they have threatned that if the two persons whom they have chosen, shall not undertake the sayd Office, that they will vex and molest them by all maner of waies of expence, &amp; endevour great Fines to be layd upon them; and doe use all means possible to make voyd the choice of those two persons whom the Inhabitants in pursuance of the said Ordinance did elect.</p>
+                        <p n="20">20. That since <hi>Covent Garden</hi> was made Parochiall, they never have or would upon frequent Admonition, Convocate the Parish according to the intention of the Ordinance, for the choosing of Governours, lest the Parish should Elect such as might perceive &amp; prevent their Arbitrary proceedings. Neither hath there been a publike warning for the Vestry to meet, but pri<g ref="char:EOLhyphen"/>vate, of such only as they think most conducing to their turns.</p>
+                        <p n="21">21. That though the Ordinance doth enjoin the Vestry to choose an As<g ref="char:EOLhyphen"/>sistant for the Minister, yet have they never proceeded therein, by which means the Inhabitants have not enjoyd such plentiful benefits of the Gospel, as the Parliament did ordain, and the Godly party desires.</p>
+                        <p n="22">22. That although by the sollicitation of some of the Vestry, severall dayes were set for the Reforming of all the foresayd Grievances, yet when they were come together, they would delay the time with many frivolous and slight pretensions of businesse, and would not proceed in the worke of Reformation, casting many aspersions upon some of the Inhabitants, not forbearing severall unhandsome Reflections upon his Highnesse the Lord Protector himselfe.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="list_of_grievances">
+                        <head>Another Paper of Grievances was presented as followeth.</head>
+                        <p>THat all the Inhabitants may be assembled to know whether they desire the Precinct of <hi>Covent Garden</hi> should be made a Parish.</p>
+                        <p n="2">2. That in case it be made a Parish, there may be Churchwardens and other Officers, as are in all other Parishes.</p>
+                        <p n="3">3. That some person may be appointed to take an Accompt of all the Money that hath beene gathered since the beginning of the Ordinance, by which it was <hi>(protempore)</hi> made a Parish.</p>
+                        <p n="4">
+                           <pb n="6" facs="tcp:184418:4"/> 4. That the Chappell which at first was promised to be free, may not be let out in Tenements to Strangers, but that the Inhabitants may freely come and hear the word of God, without paying at first a great Fine, and an Annuall Rent to the Governours.</p>
+                        <p n="5">5. That seeing great summes of Money are collected for the reliefe of the Poor, it may not be imployed to any other use, but a List of names of the Poor may be kept, wherby every body may know where those Poor live, and an Accompt hung up in Tables in the Church as it is in other Parishes.</p>
+                        <p n="6">6. That the Parish may be cleered from all Bulks, and Inmates, of which the Governours themselves are many of them guilty; it being unreasonable that they should pester the Parish with Inmates, and Tax other men for their maintenance.</p>
+                        <p n="7">7. That no man may be made a Governour that lives by defrauding the poore, of which sort are all Alehousekeepers.</p>
+                        <p n="8">8. That Taxes may be laid according to the Rents of Houses, otherwise a Taylor, Baker, Pedlar, or Broker, shall take a great house, and living in a little shop or hovel himselfe; may enterta in Ambassadors, Earles, Lords, and great families, and the Taxes onely layd upon the Tradesman according to his condition; and if a Gentleman take a house onely for himselfe and a private family, all Taxes are doubled and many times trebled upon him.</p>
+                        <p n="9">9. That in Case any differences arise betweene the Inhabitants and the Governours: (which may be very well supposed as long as they governe by an Arbitrary power) the Governours may not sue the Inhabitants with their owne money which they have threatned, and when they summoned some of the Parishioners before the Lords Commissioners of the great Seale, they not being able to make good their complaint let their Cause fall, and putting certaine vagabonds into the habit of Souldiers, sent them into the houses of many of the Parishioners, and violently forced away their goods, which they needed not have done if they could have done it in a legall way.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon presenting of these Papers to his Highnesse, on the behalfe of the Inhabitants by Mr. <hi>Long,</hi> one of the Masters of Request, it was ordered as followeth on the back side of the Petition.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <opener>
+                           <dateline>
+                              <date>Mund. June 11. 1655.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>HIs Highnesse upon perusall of this Petition and Papers annexed, is pleased to referr the same to</hi> John Sadler, Thomas Manby, Richard Lucy, John Hillsly, <hi>and</hi> John Rushworth, <hi>Esqs. Mr.</hi> Hugh Peters, <hi>or any three or more of them, to ex<g ref="char:EOLhyphen"/>amine the matters complained of, to state matter of fact, and report to his Highnesse how they find the same, with their opinion what is proper to bee done for redresse therein.</hi>
+                        </p>
+                        <closer>
+                           <signed>Lisle Long.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Reference of his Highnesse being brought unto the Referees afore<g ref="char:EOLhyphen"/>sayd, they immediatly made an Order of Summons for the Convocating of the Parishioners, and also those of the Vestry complained of, who used all indirect means to hinder the meeting of the Parish, and so to frustrate his Highnesse Order. Notwithstanding by the care of the Reserees, there was a freedome given for the Parishioners to meet, and in the presence of both sides severall daies, they examined the Complaints aforesaid, and heard divers proofs concerning the same, aswel from persons of Honour and Qua<g ref="char:EOLhyphen"/>lity, as from the Vestry Books themselves, and did thereupon in the Vestry Roome, after a private debate amongst themselves, agree upon a Report.</p>
+            <p>But before they caused each partie to withdraw, they used all manner of Christian and prudent exhortations to compose the differences in hand
+<pb n="7" facs="tcp:184418:4"/>betweene those of the Vestry and the Parishioners, and to joyne in such a sober and just settlement for the future as might be for the satisfaction and content of all the Inhabitants and publike good of the Parish.</p>
+            <p>Upon this proposition, all the Petitioners did immediately professe their consent to submit the whole matter to any determination, which either all the Referees or any 2 or 3 of them should thinke fit, and declared a very great willingnesse to acquiesce therein.</p>
+            <p>At length after many Arguments used, even those of the Vestry also (ex<g ref="char:EOLhyphen"/>cepting but one Person who is looked on as the chiefe incendiary in these unhappy contests) consented to referr all differences past to be composed by two of the Referees, and to submit to such setlement as they should thinke fit to ordaine for the time to come.</p>
+            <p>So neare was the peace of the whole Parish effected, but by the obstinacy of that dissenting Person kept a sarr off.</p>
+            <p>Whereupon a full unanimous consent being wanting, the Referees were necessitated to proceed in drawing up the Report which was formerly a<g ref="char:EOLhyphen"/>greed on, as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="report">
+                        <head>To his Highnesse the Lord Protector.</head>
+                        <opener>
+                           <salute>May it please your Highness:</salute>
+                        </opener>
+                        <p>ACcording to your Highness Reference of the 11. <hi>June</hi> 1655. upon the Pe<g ref="char:EOLhyphen"/>tition of many of the Inhabitants of <hi>Covent Garden,</hi> we have examined the particulars complained of, in the presence of the sayd Inhabitants and Governours, and we find the substance of the severall Complaints contain<g ref="char:EOLhyphen"/>ed in the Petitions and Articles thereto annexed, to be in effect as followeth.</p>
+                        <p n="1">1. That <hi>Covent Garden</hi> being made a Parish of it selfe by Ordinance of Parliament 7. <hi>Jan.</hi> 1645. and thereby 34. Governours named and appointed, many of which are deceased, and others gone and new ones elected by some of the remayning Governours, in that place which they call the Vestry, without any convening of the Parishioners, or notice to them of such Ele<g ref="char:EOLhyphen"/>ction, though the said Ordinance doth appoint in these words: That as often as the said Governours shall die or bee removed, the Housholders Inhabi<g ref="char:EOLhyphen"/>tants within the sayd new erected Parish, or the major part of them, within the space of two Months after such death or removall, and in default ther<g ref="char:EOLhyphen"/>of the remaining Governours, or the greater number of them, may choose another in the place of him or them dying or removed, which said Gover<g ref="char:EOLhyphen"/>nours, and their Successors, or the greater number of them as shal be Assem<g ref="char:EOLhyphen"/>bled together upon publike warning, shall have power from time to time to nominate and appoint a Clark, Sexton, Constables, Scavengers, and all o<g ref="char:EOLhyphen"/>ther Officers for the Precinct.</p>
+                        <p n="2">2. That some of the sayd Governours at their Vestry meetings without publike warning of such meetings do make, alter, or allow divers Rates and Assessements not comprised within the Ordinance, as namely for reliefe of the Poor, High wayes, and those not according to the Rents they pay, but according to their abilities and estates lying elswhere out of the said Parish, wheras if they had power to make such Rates, which it seemes they have not, yet ought the same to be made by a pound rate, according to the rents of the Houses; the Ordinance seeming so to expresse the same in these words; That the sayd Rates shalbe Assessed upon the sayd Inhabitants ac<g ref="char:EOLhyphen"/>cording to their abilities, not exceeding the sum of eighteene pence in the pound, in proportion to their severall Rents for any one year, and so propor<g ref="char:EOLhyphen"/>tionably.</p>
+                        <p n="3">3. That the sayd Governours have received great sums of Money, aswell by vertue of
+<pb n="8" facs="tcp:184418:5"/>that Ordinance, for penalties upon Lawes lince that time made, as for the sale of Seats in the Church, and yet do they give no publike or other Accompts save amongst themselves, at such Vestry meetings, where they make such payment and allowance to one another as they please, wherby the Parish money is much spent and wasted, and no Accompt given therof to the Inhabitants of the sayd Parish.</p>
+                        <p n="4">4. That they sell and barter the seats in the Church at great Rates, from twenty shil<g ref="char:EOLhyphen"/>lings to fourescore pound a seate, and (somtimes to strangers living in other places) for two lives, whereby many of the Inhabitants who paye Rates and Taxes for the Maintenance of the Minister,
+<note place="margin">Testimony was given to the Referees, that a woman was carnally <gap reason="illegible: blotted" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> in the Church, du<g ref="char:EOLhyphen"/>ring Divine Worship.</note> and reperation of the Church, have no places or seats in the Parish Church; but are forced to stand during the Sermon, or are excluded, nor doe they appoynt Churchwar<g ref="char:EOLhyphen"/>dens to order the Seats of the Church as in all other Parishes of England is used, but app<gap reason="illegible: blotted" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap> a Woman of evill fame and reputation to place whom she <gap reason="illegible: blotted" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>.</p>
+                        <p>Upon the truth of which matter so alleadged, wee humbly Certifie your Highness, That severall persons of Honour and Credit, aswell of the Petitioners as others, have testified and made the same appear to us in presence of divers of the sayd Parish.</p>
+                        <p>And as to our opinions which in obedience to your Highnes command, we humbly offer.</p>
+                        <p>We conceive, that the said Ordinance of Constituting the said Parish and Governours being in many points imperfect, and doubtfull, and the matters of fact being but generally alleadged, That a speciall Commission were granted to make a further inquiry upon Oath aswell into the Abuses complained of, as the defect of the sayd Ordinance, that thereby the certainty of the fact more clearly and Legally appearing, thereupon such Orders, Rules, or Lawes, may be devised for the future, as may conduce to the quiet and generall satisfaction of the sayd Inhabitants, and prevent the suits and troubles which may otherwise grow a<g ref="char:EOLhyphen"/>mongst them. And that such Orders as shalbe made, may also by your Highness approba<g ref="char:EOLhyphen"/>tion and command, be Inrolled in the High Court of Chancery, and observed and obeyed untill some further provision may be made by the Supream Authority of this Nation, accor<g ref="char:EOLhyphen"/>ding to a Clause in the sayd Ordinance to that or the like effect.</p>
+                        <closer>
+                           <signed>All which we humbly submit to your Highnesses great<lb/> wisedome, and remaine<lb/> Your Highnesse most humble Servants.
+<list>
+                                 <item>
+                                    <hi>Tho. Manby.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hugh Peters.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon the Presenting of this Report to his Highnesse by Mr. <hi>Bacon</hi> the Master of Re<g ref="char:EOLhyphen"/>quests, it was ordered as followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <p>His Highnesse Referreth this Report and the matter therein, to the consideration and Order of the Councill.</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Aug.</hi> 16. 1655.</date>
+                           </dateline>
+                           <signed>Nath. Bacon.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="request">
+                        <head>The humble Request of the Inhabitants of <hi>Covent Garden</hi> to his Highnes and Councill is.</head>
+                        <p>That such Persons who have been any wayes guilty of the matters complained of, may be for thwith re<g ref="char:EOLhyphen"/>mooved out of the Vestry, and all those whe have singered any Parish money may be enforc'd to give a just and legall account, and that some certaine equall rules concerning all Assessements, and the Seats in the Church, may be constituted for the time to come, and such honest and wel affected Persons appointed to put in execution the same, as to justice and good conscience shall seeme meer. And this they humbly beg, may be don with more speed, in regard those of the Vestry at this present do presume notwithstanding these com<g ref="char:EOLhyphen"/>plaints depending before his Highnesse and Councill, to use all indirect meanes to enforce the Petitioners to yeeld obedience to the things complained of: and in order to that have lately procured no lesse then three hundred vexatious Warrants against them, wasting upon all occasions the Parish mony.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
